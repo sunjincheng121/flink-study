@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.apache.flink.study.sql
+package org.apache.flink.study.table
 
 import java.io.{File, FileOutputStream, OutputStreamWriter}
 
