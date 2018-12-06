@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.apache.flink.study.table
+package org.apache.flink.study.sql
 
 import java.io.File
 import java.lang.{Long => JLong}

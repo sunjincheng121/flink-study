@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.apache.flink.study.table
+package org.apache.flink.study.sql
 
 import org.apache.flink.api.scala._
 import org.apache.flink.runtime.state.StateBackend
