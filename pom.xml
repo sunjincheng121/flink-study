@@ -58,6 +58,12 @@
       <version>${table.version}</version>
     </dependency>
 
+    <dependency>
+      <groupId>com.softwaremill.scalamacrodebug</groupId>
+      <artifactId>macros_2.11</artifactId>
+      <version>0.4</version>
+    </dependency>
+
   </dependencies>
 
   <build>
