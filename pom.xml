@@ -42,6 +42,21 @@
       <artifactId>JUnit</artifactId>
       <version>4.12</version>
     </dependency>
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20180813</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.flink</groupId>
+      <artifactId>flink-clients_2.11</artifactId>
+      <version>${table.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.flink</groupId>
+      <artifactId>flink-runtime_2.11</artifactId>
+      <version>${table.version}</version>
+    </dependency>
 
   </dependencies>
 
